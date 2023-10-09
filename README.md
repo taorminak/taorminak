@@ -1,4 +1,11 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+   <a href="www.linkedin.com/in/anna-ostanina-3a685157">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+</div>
 
 <!--
 **taorminak/taorminak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
