@@ -7,17 +7,16 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 </div>
 
-<!--
-**taorminak/taorminak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
 
-Here are some ideas to get you started:
+I am a Frontend Developer :woman_technologist:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :telescope: I'm currently looking for a junior position / an internship as a Frontend developer.
+  
+- :writing_hand: With a passion for learning new things.
+  
+- :owl: In my free time, I read books and learn German.
+  
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anna-ostanina-3a685157)
+
+
