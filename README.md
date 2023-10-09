@@ -7,6 +7,8 @@
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 </div>
 
+---
+
 ### About Me :
 
 I am a Frontend Developer :woman_technologist:
@@ -18,6 +20,8 @@ I am a Frontend Developer :woman_technologist:
 - :owl: In my free time, I read books and learn German.
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anna-ostanina-3a685157)
+
+- ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -38,6 +42,16 @@ I am a Frontend Developer :woman_technologist:
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40">&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taorminak&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taorminak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
