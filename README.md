@@ -11,9 +11,9 @@
 
 ### About Me :
 
-I am a Frontend Developer :woman_technologist:
+I am a Software Developer :woman_technologist:
 
-- :telescope: I'm currently looking for a junior position / an internship as a Frontend developer.
+- :telescope: I'm currently looking for a junior position as a Frontend or Fullstack developer.
   
 - :writing_hand: With a passion for learning new things.
   
